@@ -18,3 +18,4 @@ En este repo encontraras un notebook para poder revrear una interfaz de uso de c
 ## Youtube 📺
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
+https://youtu.be/_Wv3AZW8ymI
