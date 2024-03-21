@@ -13,7 +13,7 @@ En este repo encontraras un notebook para poder revrear una interfaz de uso de c
 ## Notebook
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
-[Gemini vs GPT4 - Notebook](Gemini_vs_GPT4.ipynb)
+[Claude 3 vs GPT4 - Notebook](Claude_3_vs_GPT4.ipynb)
 
 ## Youtube 📺
 🔽🔽🔽🔽🔽🔽🔽🔽 
